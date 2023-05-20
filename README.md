@@ -46,10 +46,10 @@ CRUDAPI is a backend project built using the **Express.js** framework in **Node.
 
 ## API Documentation
 
-### Create User
+### 1. Create User
 ![Add new user](./assets/createuser.png)
 
-### Fetch User Details
+### 2. Fetch User Details
 
 - Get All Users
 ![Fetch All user](./assets/fetchalluser.png)
@@ -57,10 +57,10 @@ CRUDAPI is a backend project built using the **Express.js** framework in **Node.
 - Get a Specific User by Userid
 ![Fetch Specific user](./assets/fetchspecificuser.png)
 
-### Update User
+### 3. Update User
 ![Update user](./assets/updateuser.png)
 
-### Delete User
+### 4. Delete User
 ![Fetch Specific user](./assets/deleteuser.png)
 
 
