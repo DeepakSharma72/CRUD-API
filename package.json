@@ -1,0 +1,27 @@
+{
+  "name": "crud-api",
+  "version": "1.0.0",
+  "description": "\"CRUD API in Nodejs\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start:dev": "nodemon index.js",
+    "start:prod": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeepakSharma72/CRUD-API.git"
+  },
+  "author": "Deepak Sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DeepakSharma72/CRUD-API/issues"
+  },
+  "homepage": "https://github.com/DeepakSharma72/CRUD-API#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^7.1.2",
+    "uuid": "^9.0.0"
+  }
+}
