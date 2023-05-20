@@ -47,7 +47,8 @@ CRUDAPI is a backend project built using the **Express.js** framework in **Node.
 ## API Documentation
 
 ### Create User
-    ![Add new user]('./assets/createuser.png')
+
+![Add new user]('./assets/createuser.png')
 
 
 
