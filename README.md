@@ -24,9 +24,31 @@ CRUDAPI is a backend project built using the **Express.js** framework in **Node.
 ## Getting Started
 1. Clone the repository: 
 ```bash
-$ git clone https://github.com/your-repo.git
+ git clone https://github.com/DeepakSharma72/CRUD-API.git
 ```
-<button onclick="navigator.clipboard.writeText('git clone https://github.com/your-repo.git')">Copy</button>
+2. Navigate to the project directory: `cd CRUDAPI`
+
+3. Install dependencies: 
+```bash
+    npm install
+```
+
+4. Start the Server
+    -  Production Mode:
+    ```bash
+       npm run start:prod
+    ```
+    - Development Mode:
+    ```
+        npm run start:dev
+    ```
+
+
+## API Documentation
+
+### Create User
+    ![Add new user]('./assets/createuser.png')
+
 
 
 
